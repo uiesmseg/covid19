@@ -1,2 +1,3 @@
-# covid19
-Repositório de Dashboard's COVID19 da Unidade de Informações e Estatísticas - SMSEG
+# Repositório de Dashboard's
+Assunto: Covid19 
+Equipe: Unidade de Informações e Estatísticas - SMSEG
